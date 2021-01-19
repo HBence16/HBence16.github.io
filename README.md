@@ -1,9 +1,7 @@
-# HBence16.github.io
-My public HTML pages
 <!DOCTYPE HTML>
 <html lang="hu">
 <head>
-<title>Killerwatt
+<title>HBence
 </title>
 </head>
 <body>
